@@ -1,0 +1,40 @@
+Team Name: Crank Industries
+	John Pyeatt
+	Sasha Hall
+	Tyler Mauer
+	Fahad Shak
+	Chakrya Ros
+	Warren Fulton
+
+Description
+One major problem with students on campus is availability to quiet study areas within libraries. Although these rooms exist, there no efficient way to reserve these study rooms. We will propose a way to solve this issue with our project -- a web-application that will allow students to easily reserve rooms for use. This web-application will be able to display all the available rooms and use the student’s email to reserve the room in their name. 
+One benefit our website will provide is its accessibility. Students will be able to reserve rooms online, which eliminates the need to book rooms in person. Also it will be a two-step process where students are able to log-in and choose a room; they will not have to create an account. This allows students to be able to access the resources provided on campus in a simple and effective way. Being able to use the quiet rooms for studying or group meetings will no longer be a hassle for students, but will become a breeze with our web-application because of its easy process for users.
+
+Vision Statement
+To improve the learning experience for students all across the library by improving their ability to gain access to the resources they require.
+
+Motivation
+Reserving a work room on campus can be difficult, for you have to go to the actual library to sign one out and they might all be reserved. So, we want to offer students accessibility and convenience such that they only need to open their computer to see if there are any rooms available and reserve them if so.
+
+Risks
+Lack of experience, lack of access to information about the location the app is based on 
+
+Risk Mitigation Plan
+Lack of experience will be handled by communicating with each other and personal research on their topics. Lack of access to resources will first involve contacting areas on campus about working with them on accessing their room information and how they sign out rooms. If they do not wish to work with us we will create our own database of rooms to work with.  
+
+Version Control
+Three different git repositories one for group meetings, one for Milestones, and one for our software.
+
+Development Method
+Agile preferably without a scrum master, hopefully high amounts of communication can mitigate the need.
+
+Collaboration Tool
+In order to collaborate more effectively, we have decided to use Slack as our means of communication.
+
+Proposed Architecture
+Web application or mobile applications (perhaps): 
+Front end: HTML/CSS 
+Integration: NODE.js  
+Back end: Python
+
+
