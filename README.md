@@ -6,8 +6,12 @@ The goal of this project is to create  web-application for the WeatherTech Cafe.
 How to run this web-application:
 
 In the terminal:
+
 git clone https://github.com/TyMa0636/CSCI-3308-Code.git
+
 cd WeatherTech
+
 node server.js
+
 Navigate to the URL  http://localhost:4000 
 
